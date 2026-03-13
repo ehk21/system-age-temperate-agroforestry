@@ -1,0 +1,576 @@
+﻿Site,FarmingSystem,Method,SampleRef,DistanceFromTR,Month,Percentage,Year,Taxon
+1,Agroforestry,quadrat,TG,0.5,6,3,2018,Galium aparine
+1,Agroforestry,quadrat,TB,0.5,6,10,2018,Veronica persica
+1,Agroforestry,quadrat,TG,0.5,6,3,2018,Veronica persica
+1,Agroforestry,quadrat,TC,5,6,5,2018,Bryophyte
+1,Agroforestry,quadrat,TD,9.5,6,15,2018,Bryophyte
+1,Agroforestry,quadrat,TE,9.5,6,5,2018,Bryophyte
+1,Agroforestry,quadrat,TF,5,6,10,2018,Bryophyte
+1,Agroforestry,quadrat,TG,0.5,6,10,2018,Bryophyte
+1,Agroforestry,quadrat,TC,5,6,3,2018,Poaceae
+1,Agroforestry,quadrat,TB,0.5,6,3,2018,Picris echioides
+1,Agroforestry,quadrat,TB,0.5,6,1,2018,Tripleurospermum inodorum
+1,Agroforestry,quadrat,TJ,0.5,6,3,2018,Leucanthemum vulgare
+1,Agroforestry,quadrat,TO,0.5,6,3,2018,Leucanthemum vulgare
+1,Agroforestry,quadrat,TJ,0.5,6,3,2018,Alopecurus myosuroides
+1,Agroforestry,quadrat,TK,5,6,3,2018,Alopecurus myosuroides
+1,Agroforestry,quadrat,TO,0.5,6,3,2018,Alopecurus myosuroides
+1,Agroforestry,quadrat,TK,5,6,3,2018,Poaceae
+1,Agroforestry,quadrat,TL,9.5,6,3,2018,Poaceae
+1,Agroforestry,quadrat,TM,9.5,6,3,2018,Poaceae
+1,Agroforestry,quadrat,TO,0.5,6,3,2018,Poaceae
+1,Agroforestry,quadrat,TJ,0.5,6,10,2018,Bryophyte
+1,Agroforestry,quadrat,TK,5,6,15,2018,Bryophyte
+1,Agroforestry,quadrat,TL,9.5,6,5,2018,Bryophyte
+1,Agroforestry,quadrat,TM,9.5,6,5,2018,Bryophyte
+1,Agroforestry,quadrat,TN,5,6,5,2018,Bryophyte
+1,Agroforestry,quadrat,TO,0.5,6,10,2018,Bryophyte
+1,Agroforestry,quadrat,TJ,0.5,6,3,2018,Epilobium
+1,Agroforestry,quadrat,TL,9.5,6,3,2018,Epilobium
+1,Agroforestry,quadrat,TJ,0.5,6,3,2018,Geranium dissectum
+1,Agroforestry,quadrat,TJ,0.5,6,3,2018,Euphorbia
+1,Arable,quadrat,CD,9.5,6,3,2018,Picris echioides
+1,Arable,quadrat,CB,0.5,6,3,2018,Poaceae
+1,Arable,quadrat,CC,5,6,3,2018,Poaceae
+1,Arable,quadrat,CD,9.5,6,3,2018,Poaceae
+1,Arable,quadrat,CD,9.5,6,3,2018,Leucanthemum vulgare
+1,Arable,quadrat,CC,5,6,3,2018,Galium aparine
+1,Arable,quadrat,CD,9.5,6,3,2018,Galium aparine
+1,Arable,quadrat,CE,9.5,6,3,2018,Galium aparine
+1,Arable,quadrat,CD,9.5,6,3,2018,Epilobium
+1,Arable,quadrat,CE,9.5,6,3,2018,Epilobium
+1,Arable,quadrat,CG,0.5,6,3,2018,Epilobium
+1,Arable,quadrat,CA,0,6,0,2018,Epilobium
+1,Arable,quadrat,CA,0,6,5,2018,Bryophyte
+1,Arable,quadrat,CB,0.5,6,5,2018,Bryophyte
+1,Arable,quadrat,CC,5,6,5,2018,Bryophyte
+1,Arable,quadrat,CD,9.5,6,5,2018,Bryophyte
+1,Arable,quadrat,CE,9.5,6,5,2018,Bryophyte
+1,Arable,quadrat,CF,5,6,10,2018,Bryophyte
+1,Arable,quadrat,CG,0.5,6,5,2018,Bryophyte
+1,Arable,quadrat,CH,0,6,5,2018,Bryophyte
+1,Arable,quadrat,CA,0,6,3,2018,Dicot
+1,Arable,quadrat,CG,0.5,6,3,2018,Dicot
+1,Arable,quadrat,CE,9.5,6,3,2018,Geranium dissectum
+1,Arable,quadrat,CF,5,6,25,2018,Geranium dissectum
+1,Arable,quadrat,CI,0,6,20,2018,Bryophyte
+1,Arable,quadrat,CJ,0.5,6,5,2018,Bryophyte
+1,Arable,quadrat,CK,5,6,15,2018,Bryophyte
+1,Arable,quadrat,CL,9.5,6,5,2018,Bryophyte
+1,Arable,quadrat,CM,9.5,6,20,2018,Bryophyte
+1,Arable,quadrat,CN,5,6,15,2018,Bryophyte
+1,Arable,quadrat,CO,0.5,6,10,2018,Bryophyte
+1,Arable,quadrat,CP,0,6,5,2018,Bryophyte
+1,Arable,quadrat,CI,0,6,3,2018,Poaceae
+1,Arable,quadrat,CJ,0.5,6,3,2018,Poaceae
+1,Arable,quadrat,CO,0.5,6,3,2018,Poaceae
+1,Arable,quadrat,CL,9.5,6,3,2018,Triticum
+1,Arable,quadrat,CP,0,6,3,2018,Epilobium
+3,Agroforestry,quadrat,TB,0.5,6,20,2018,Convolvulus arvensis
+3,Agroforestry,quadrat,TC,5,6,20,2018,Convolvulus arvensis
+3,Agroforestry,quadrat,TD,9.5,6,15,2018,Convolvulus arvensis
+3,Agroforestry,quadrat,TE,9.5,6,5,2018,Convolvulus arvensis
+3,Agroforestry,quadrat,TF,5,6,5,2018,Convolvulus arvensis
+3,Agroforestry,quadrat,TG,0.5,6,10,2018,Convolvulus arvensis
+3,Agroforestry,quadrat,TB,0.5,6,20,2018,Stellaria media
+3,Agroforestry,quadrat,TC,5,6,70,2018,Stellaria media
+3,Agroforestry,quadrat,TD,9.5,6,15,2018,Stellaria media
+3,Agroforestry,quadrat,TE,9.5,6,5,2018,Stellaria media
+3,Agroforestry,quadrat,TF,5,6,40,2018,Stellaria media
+3,Agroforestry,quadrat,TG,0.5,6,10,2018,Stellaria media
+3,Agroforestry,quadrat,TB,0.5,6,5,2018,Viola arvensis
+3,Agroforestry,quadrat,TD,9.5,6,5,2018,Viola arvensis
+3,Agroforestry,quadrat,TF,5,6,5,2018,Viola arvensis
+3,Agroforestry,quadrat,TB,0.5,6,5,2018,Galium aparine
+3,Agroforestry,quadrat,TE,9.5,6,5,2018,Galium aparine
+3,Agroforestry,quadrat,TG,0.5,6,15,2018,Galium aparine
+3,Agroforestry,quadrat,TB,0.5,6,10,2018,Papaver rhoeas
+3,Agroforestry,quadrat,TC,5,6,5,2018,Papaver rhoeas
+3,Agroforestry,quadrat,TE,9.5,6,20,2018,Papaver rhoeas
+3,Agroforestry,quadrat,TF,5,6,25,2018,Papaver rhoeas
+3,Agroforestry,quadrat,TC,5,6,15,2018,Stachys officinalis
+3,Agroforestry,quadrat,TC,5,6,5,2018,Cirsium arvense
+3,Agroforestry,quadrat,TE,9.5,6,30,2018,Cirsium arvense
+3,Agroforestry,quadrat,TF,5,6,20,2018,Cirsium arvense
+3,Agroforestry,quadrat,TG,0.5,6,2,2018,Cirsium arvense
+3,Agroforestry,quadrat,TC,5,6,5,2018,Tripleurospermum inodorum
+3,Agroforestry,quadrat,TD,9.5,6,2,2018,Lamiaceae
+3,Agroforestry,quadrat,TJ,0.5,6,30,2018,Galium aparine
+3,Agroforestry,quadrat,TK,5,6,5,2018,Galium aparine
+3,Agroforestry,quadrat,TO,0.5,6,15,2018,Galium aparine
+3,Agroforestry,quadrat,TJ,0.5,6,10,2018,Convolvulus arvensis
+3,Agroforestry,quadrat,TL,9.5,6,5,2018,Convolvulus arvensis
+3,Agroforestry,quadrat,TM,9.5,6,10,2018,Convolvulus arvensis
+3,Agroforestry,quadrat,TN,5,6,10,2018,Convolvulus arvensis
+3,Agroforestry,quadrat,TO,0.5,6,10,2018,Convolvulus arvensis
+3,Agroforestry,quadrat,TJ,0.5,6,60,2018,Stellaria media
+3,Agroforestry,quadrat,TK,5,6,30,2018,Stellaria media
+3,Agroforestry,quadrat,TL,9.5,6,5,2018,Stellaria media
+3,Agroforestry,quadrat,TM,9.5,6,30,2018,Stellaria media
+3,Agroforestry,quadrat,TN,5,6,20,2018,Stellaria media
+3,Agroforestry,quadrat,TO,0.5,6,30,2018,Stellaria media
+3,Agroforestry,quadrat,TJ,0.5,6,10,2018,Cirsium arvense
+3,Agroforestry,quadrat,TK,5,6,70,2018,Cirsium arvense
+3,Agroforestry,quadrat,TM,9.5,6,80,2018,Cirsium arvense
+3,Agroforestry,quadrat,TN,5,6,15,2018,Cirsium arvense
+3,Agroforestry,quadrat,TL,9.5,6,5,2018,Atriplex/Chenopodium
+3,Agroforestry,quadrat,TL,9.5,6,10,2018,Papaver rhoeas
+3,Agroforestry,quadrat,TM,9.5,6,5,2018,Papaver rhoeas
+3,Agroforestry,quadrat,TN,5,6,5,2018,Papaver rhoeas
+3,Agroforestry,quadrat,TO,0.5,6,5,2018,Papaver rhoeas
+3,Agroforestry,quadrat,TO,0.5,6,15,2018,Bromus sterilis
+3,Arable,quadrat,CA,0,6,20,2018,Stellaria media
+3,Arable,quadrat,CB,0.5,6,10,2018,Stellaria media
+3,Arable,quadrat,CC,5,6,10,2018,Stellaria media
+3,Arable,quadrat,CD,9.5,6,15,2018,Stellaria media
+3,Arable,quadrat,CE,9.5,6,15,2018,Stellaria media
+3,Arable,quadrat,CF,5,6,10,2018,Stellaria media
+3,Arable,quadrat,CG,0.5,6,20,2018,Stellaria media
+3,Arable,quadrat,CH,0,6,25,2018,Stellaria media
+3,Arable,quadrat,CA,0,6,5,2018,Convolvulus arvensis
+3,Arable,quadrat,CB,0.5,6,5,2018,Convolvulus arvensis
+3,Arable,quadrat,CC,5,6,5,2018,Convolvulus arvensis
+3,Arable,quadrat,CD,9.5,6,10,2018,Convolvulus arvensis
+3,Arable,quadrat,CE,9.5,6,10,2018,Convolvulus arvensis
+3,Arable,quadrat,CF,5,6,30,2018,Convolvulus arvensis
+3,Arable,quadrat,CG,0.5,6,5,2018,Convolvulus arvensis
+3,Arable,quadrat,CH,0,6,10,2018,Convolvulus arvensis
+3,Arable,quadrat,CC,5,6,20,2018,Persicaria lapathifolia
+3,Arable,quadrat,CF,5,6,5,2018,Persicaria lapathifolia
+3,Arable,quadrat,CC,5,6,10,2018,Cirsium arvense
+3,Arable,quadrat,CD,9.5,6,5,2018,Myosotis arvensis
+3,Arable,quadrat,CD,9.5,6,5,2018,Tripleurospermum inodorum
+3,Arable,quadrat,CF,5,6,5,2018,Viola arvensis
+3,Arable,quadrat,CG,0.5,6,15,2018,Viola arvensis
+3,Arable,quadrat,CI,0,6,5,2018,Cirsium arvense
+3,Arable,quadrat,CI,0,6,15,2018,Stellaria media
+3,Arable,quadrat,CJ,0.5,6,10,2018,Stellaria media
+3,Arable,quadrat,CK,5,6,80,2018,Stellaria media
+3,Arable,quadrat,CN,5,6,15,2018,Stellaria media
+3,Arable,quadrat,CO,0.5,6,20,2018,Stellaria media
+3,Arable,quadrat,CP,0,6,15,2018,Stellaria media
+3,Arable,quadrat,CI,0,6,5,2018,Convolvulus arvensis
+3,Arable,quadrat,CJ,0.5,6,5,2018,Convolvulus arvensis
+3,Arable,quadrat,CN,5,6,5,2018,Convolvulus arvensis
+3,Arable,quadrat,CI,0,6,5,2018,Viola arvensis
+3,Arable,quadrat,CJ,0.5,6,2,2018,Viola arvensis
+3,Arable,quadrat,CL,9.5,6,2,2018,Viola arvensis
+3,Arable,quadrat,CK,5,6,2,2018,Persicaria lapathifolia
+3,Arable,quadrat,CL,9.5,6,5,2018,Persicaria lapathifolia
+3,Arable,quadrat,CM,9.5,6,10,2018,Persicaria lapathifolia
+3,Arable,quadrat,CN,5,6,10,2018,Persicaria lapathifolia
+2,Agroforestry,quadrat,TB,0.5,6,5,2018,Veronica persica
+2,Agroforestry,quadrat,TD,9.5,6,60,2018,Veronica persica
+2,Agroforestry,quadrat,TE,9.5,6,20,2018,Veronica persica
+2,Agroforestry,quadrat,TF,5,6,5,2018,Veronica persica
+2,Agroforestry,quadrat,TG,0.5,6,5,2018,Veronica persica
+2,Agroforestry,quadrat,TB,0.5,6,1,2018,Poa trivialis
+2,Agroforestry,quadrat,TC,5,6,5,2018,Poa trivialis
+2,Agroforestry,quadrat,TD,9.5,6,10,2018,Poa trivialis
+2,Agroforestry,quadrat,TG,0.5,6,10,2018,Poa trivialis
+2,Agroforestry,quadrat,TB,0.5,6,50,2018,Alopecurus myosuroides
+2,Agroforestry,quadrat,TC,5,6,30,2018,Alopecurus myosuroides
+2,Agroforestry,quadrat,TD,9.5,6,30,2018,Alopecurus myosuroides
+2,Agroforestry,quadrat,TE,9.5,6,50,2018,Alopecurus myosuroides
+2,Agroforestry,quadrat,TF,5,6,40,2018,Alopecurus myosuroides
+2,Agroforestry,quadrat,TG,0.5,6,50,2018,Alopecurus myosuroides
+2,Agroforestry,quadrat,TC,5,6,1,2018,Phleum pratense
+2,Agroforestry,quadrat,TG,0.5,6,10,2018,Trifolium
+2,Agroforestry,quadrat,TG,0.5,6,10,2018,Sonchus oleraceus
+2,Agroforestry,quadrat,TJ,0.5,6,10,2018,Veronica persica
+2,Agroforestry,quadrat,TK,5,6,10,2018,Veronica persica
+2,Agroforestry,quadrat,TL,9.5,6,20,2018,Veronica persica
+2,Agroforestry,quadrat,TM,9.5,6,10,2018,Veronica persica
+2,Agroforestry,quadrat,TO,0.5,6,5,2018,Veronica persica
+2,Agroforestry,quadrat,TJ,0.5,6,5,2018,Stellaria media
+2,Agroforestry,quadrat,TJ,0.5,6,5,2018,Trifolium pratense
+2,Agroforestry,quadrat,TL,9.5,6,5,2018,Trifolium pratense
+2,Agroforestry,quadrat,TM,9.5,6,5,2018,Trifolium pratense
+2,Agroforestry,quadrat,TO,0.5,6,5,2018,Trifolium pratense
+2,Agroforestry,quadrat,TJ,0.5,6,30,2018,Poa trivialis
+2,Agroforestry,quadrat,TK,5,6,20,2018,Poa trivialis
+2,Agroforestry,quadrat,TL,9.5,6,10,2018,Poa trivialis
+2,Agroforestry,quadrat,TM,9.5,6,5,2018,Poa trivialis
+2,Agroforestry,quadrat,TN,5,6,30,2018,Poa trivialis
+2,Agroforestry,quadrat,TO,0.5,6,20,2018,Poa trivialis
+2,Agroforestry,quadrat,TJ,0.5,6,20,2018,Alopecurus myosuroides
+2,Agroforestry,quadrat,TK,5,6,20,2018,Alopecurus myosuroides
+2,Agroforestry,quadrat,TL,9.5,6,5,2018,Alopecurus myosuroides
+2,Agroforestry,quadrat,TM,9.5,6,15,2018,Alopecurus myosuroides
+2,Agroforestry,quadrat,TN,5,6,30,2018,Alopecurus myosuroides
+2,Agroforestry,quadrat,TO,0.5,6,40,2018,Alopecurus myosuroides
+2,Agroforestry,quadrat,TK,5,6,5,2018,Myosotis arvensis
+2,Agroforestry,quadrat,TL,9.5,6,5,2018,Myosotis arvensis
+2,Agroforestry,quadrat,TL,9.5,6,5,2018,Taraxacum agg.
+2,Agroforestry,quadrat,TM,9.5,6,5,2018,Avena
+2,Arable,quadrat,CC,5,6,10,2018,Trifolium
+2,Arable,quadrat,CF,5,6,5,2018,Trifolium
+2,Arable,quadrat,CG,0.5,6,5,2018,Trifolium
+2,Arable,quadrat,CH,0,6,10,2018,Trifolium
+2,Arable,quadrat,CB,0.5,6,5,2018,Stellaria media
+2,Arable,quadrat,CD,9.5,6,5,2018,Stellaria media
+2,Arable,quadrat,CE,9.5,6,10,2018,Stellaria media
+2,Arable,quadrat,CF,5,6,10,2018,Stellaria media
+2,Arable,quadrat,CG,0.5,6,10,2018,Stellaria media
+2,Arable,quadrat,CH,0,6,60,2018,Stellaria media
+2,Arable,quadrat,CA,0,6,60,2018,Veronica persica
+2,Arable,quadrat,CB,0.5,6,40,2018,Veronica persica
+2,Arable,quadrat,CC,5,6,30,2018,Veronica persica
+2,Arable,quadrat,CD,9.5,6,30,2018,Veronica persica
+2,Arable,quadrat,CE,9.5,6,30,2018,Veronica persica
+2,Arable,quadrat,CF,5,6,70,2018,Veronica persica
+2,Arable,quadrat,CG,0.5,6,40,2018,Veronica persica
+2,Arable,quadrat,CH,0,6,10,2018,Veronica persica
+2,Arable,quadrat,CA,0,6,40,2018,Alopecurus myosuroides
+2,Arable,quadrat,CB,0.5,6,40,2018,Alopecurus myosuroides
+2,Arable,quadrat,CC,5,6,40,2018,Alopecurus myosuroides
+2,Arable,quadrat,CD,9.5,6,50,2018,Alopecurus myosuroides
+2,Arable,quadrat,CE,9.5,6,50,2018,Alopecurus myosuroides
+2,Arable,quadrat,CF,5,6,50,2018,Alopecurus myosuroides
+2,Arable,quadrat,CG,0.5,6,40,2018,Alopecurus myosuroides
+2,Arable,quadrat,CH,0,6,10,2018,Alopecurus myosuroides
+2,Arable,quadrat,CB,0.5,6,5,2018,Poa trivialis
+2,Arable,quadrat,CG,0.5,6,5,2018,Poa trivialis
+2,Arable,quadrat,CC,5,6,5,2018,Convolvulus arvensis
+2,Arable,quadrat,CA,0,6,5,2018,Avena
+2,Arable,quadrat,CB,0.5,6,5,2018,Avena
+2,Arable,quadrat,CI,0,6,40,2018,Alopecurus myosuroides
+2,Arable,quadrat,CJ,0.5,6,50,2018,Alopecurus myosuroides
+2,Arable,quadrat,CK,5,6,40,2018,Alopecurus myosuroides
+2,Arable,quadrat,CL,9.5,6,40,2018,Alopecurus myosuroides
+2,Arable,quadrat,CM,9.5,6,30,2018,Alopecurus myosuroides
+2,Arable,quadrat,CN,5,6,30,2018,Alopecurus myosuroides
+2,Arable,quadrat,CO,0.5,6,25,2018,Alopecurus myosuroides
+2,Arable,quadrat,CP,0,6,40,2018,Alopecurus myosuroides
+2,Arable,quadrat,CI,0,6,5,2018,Rumex crispus
+2,Arable,quadrat,CK,5,6,10,2018,Rumex crispus
+2,Arable,quadrat,CN,5,6,10,2018,Rumex crispus
+2,Arable,quadrat,CI,0,6,5,2018,Veronica persica
+2,Arable,quadrat,CJ,0.5,6,30,2018,Veronica persica
+2,Arable,quadrat,CK,5,6,30,2018,Veronica persica
+2,Arable,quadrat,CL,9.5,6,50,2018,Veronica persica
+2,Arable,quadrat,CM,9.5,6,30,2018,Veronica persica
+2,Arable,quadrat,CN,5,6,25,2018,Veronica persica
+2,Arable,quadrat,CO,0.5,6,5,2018,Veronica persica
+2,Arable,quadrat,CP,0,6,5,2018,Veronica persica
+2,Arable,quadrat,CJ,0.5,6,5,2018,Trifolium
+2,Arable,quadrat,CL,9.5,6,5,2018,Geranium dissectum
+2,Arable,quadrat,CM,9.5,6,5,2018,Stellaria media
+2,Arable,quadrat,CN,5,6,5,2018,Stellaria media
+2,Arable,quadrat,CP,0,6,5,2018,Stellaria media
+2,Arable,quadrat,CM,9.5,6,10,2018,Avena
+2,Arable,quadrat,CN,5,6,5,2018,Avena
+2,Arable,quadrat,CN,5,6,5,2018,Trifolium
+2,Arable,quadrat,CO,0.5,6,5,2018,Trifolium
+2,Arable,quadrat,CN,5,6,5,2018,Poa trivialis
+2,Arable,quadrat,CP,0,6,5,2018,Poa trivialis
+2,Arable,quadrat,CN,5,6,5,2018,Dicot
+2,Agroforestry,quadrat,TB,0.5,5,50,2019,Alopecurus myosuroides
+2,Agroforestry,quadrat,TB,0.5,5,1,2019,Veronica persica
+2,Agroforestry,quadrat,TC,5,5,40,2019,Alopecurus myosuroides
+2,Agroforestry,quadrat,TC,5,5,20,2019,Veronica persica
+2,Agroforestry,quadrat,TD,9.5,5,40,2019,Alopecurus myosuroides
+2,Agroforestry,quadrat,TD,9.5,5,5,2019,Veronica persica
+2,Agroforestry,quadrat,TE,9.5,5,50,2019,Alopecurus myosuroides
+2,Agroforestry,quadrat,TE,9.5,5,15,2019,Veronica persica
+2,Agroforestry,quadrat,TF,5,5,40,2019,Alopecurus myosuroides
+2,Agroforestry,quadrat,TF,5,5,1,2019,Veronica persica
+2,Agroforestry,quadrat,TF,5,5,5,2019,Sonchus asper
+2,Agroforestry,quadrat,TG,0.5,5,50,2019,Alopecurus myosuroides
+2,Agroforestry,quadrat,TG,0.5,5,1,2019,Veronica persica
+2,Agroforestry,quadrat,TJ,0.5,5,50,2019,Alopecurus myosuroides
+2,Agroforestry,quadrat,TJ,0.5,5,1,2019,Veronica persica
+2,Agroforestry,quadrat,TJ,0.5,5,1,2019,Senecio vulgaris
+2,Agroforestry,quadrat,TK,5,5,60,2019,Alopecurus myosuroides
+2,Agroforestry,quadrat,TK,5,5,1,2019,Veronica persica
+2,Agroforestry,quadrat,TL,9.5,5,10,2019,Alopecurus myosuroides
+2,Agroforestry,quadrat,TL,9.5,5,10,2019,Veronica persica
+2,Agroforestry,quadrat,TM,9.5,5,30,2019,Alopecurus myosuroides
+2,Agroforestry,quadrat,TM,9.5,5,1,2019,Ranunculus acris
+2,Agroforestry,quadrat,TN,5,5,50,2019,Alopecurus myosuroides
+2,Agroforestry,quadrat,TN,5,5,1,2019,Stellaria media
+2,Agroforestry,quadrat,TO,0.5,5,50,2019,Alopecurus myosuroides
+2,Arable,quadrat,CA,0,5,50,2019,Alopecurus myosuroides
+2,Arable,quadrat,CB,0.5,5,50,2019,Alopecurus myosuroides
+2,Arable,quadrat,CB,0.5,5,1,2019,Veronica persica
+2,Arable,quadrat,CC,5,5,50,2019,Alopecurus myosuroides
+2,Arable,quadrat,CC,5,5,10,2019,Rumex crispus
+2,Arable,quadrat,CD,9.5,5,40,2019,Alopecurus myosuroides
+2,Arable,quadrat,CD,9.5,5,5,2019,Taraxacum agg.
+2,Arable,quadrat,CE,9.5,5,40,2019,Alopecurus myosuroides
+2,Arable,quadrat,CE,9.5,5,1,2019,Veronica persica
+2,Arable,quadrat,CF,5,5,50,2019,Alopecurus myosuroides
+2,Arable,quadrat,CG,0.5,5,50,2019,Alopecurus myosuroides
+2,Arable,quadrat,CG,0.5,5,1,2019,Veronica persica
+2,Arable,quadrat,CH,0,5,20,2019,Alopecurus myosuroides
+2,Arable,quadrat,CI,0,5,30,2019,Alopecurus myosuroides
+2,Arable,quadrat,CJ,0.5,5,40,2019,Alopecurus myosuroides
+2,Arable,quadrat,CJ,0.5,5,1,2019,Veronica persica
+2,Arable,quadrat,CK,5,5,35,2019,Alopecurus myosuroides
+2,Arable,quadrat,CL,9.5,5,50,2019,Alopecurus myosuroides
+2,Arable,quadrat,CM,9.5,5,50,2019,Alopecurus myosuroides
+2,Arable,quadrat,CN,5,5,35,2019,Alopecurus myosuroides
+2,Arable,quadrat,CN,5,5,1,2019,Veronica persica
+2,Arable,quadrat,CO,0.5,5,35,2019,Alopecurus myosuroides
+2,Arable,quadrat,CP,0,5,50,2019,Alopecurus myosuroides
+2,Arable,quadrat,CP,0,5,5,2019,Rumex crispus
+3,Agroforestry,quadrat,TB,0.5,5,35,2019,Stellaria media
+3,Agroforestry,quadrat,TB,0.5,5,5,2019,Galium aparine
+3,Agroforestry,quadrat,TB,0.5,5,2,2019,Viola arvensis
+3,Agroforestry,quadrat,TB,0.5,5,2,2019,Convolvulus arvensis
+3,Agroforestry,quadrat,TB,0.5,5,2,2019,Cirsium arvense
+3,Agroforestry,quadrat,TC,5,5,50,2019,Stellaria media
+3,Agroforestry,quadrat,TC,5,5,2,2019,Convolvulus arvensis
+3,Agroforestry,quadrat,TC,5,5,5,2019,Atriplex/Chenopodium
+3,Agroforestry,quadrat,TC,5,5,2,2019,Persicaria lapathifolia
+3,Agroforestry,quadrat,TC,5,5,2,2019,Lactuca serriola
+3,Agroforestry,quadrat,TD,9.5,5,35,2019,Stellaria media
+3,Agroforestry,quadrat,TD,9.5,5,1,2019,Convolvulus arvensis
+3,Agroforestry,quadrat,TD,9.5,5,1,2019,Atriplex/Chenopodium
+3,Agroforestry,quadrat,TD,9.5,5,5,2019,Papaver rhoeas
+3,Agroforestry,quadrat,TD,9.5,5,1,2019,Sinapis arvensis
+3,Agroforestry,quadrat,TE,9.5,5,35,2019,Stellaria media
+3,Agroforestry,quadrat,TE,9.5,5,5,2019,Convolvulus arvensis
+3,Agroforestry,quadrat,TF,5,5,30,2019,Stellaria media
+3,Agroforestry,quadrat,TF,5,5,5,2019,Convolvulus arvensis
+3,Agroforestry,quadrat,TF,5,5,1,2019,Atriplex/Chenopodium
+3,Agroforestry,quadrat,TF,5,5,5,2019,Persicaria lapathifolia
+3,Agroforestry,quadrat,TG,0.5,5,15,2019,Bromus sterilis
+3,Agroforestry,quadrat,TG,0.5,5,40,2019,Stellaria media
+3,Agroforestry,quadrat,TG,0.5,5,10,2019,Galium aparine
+3,Agroforestry,quadrat,TG,0.5,5,1,2019,Viola arvensis
+3,Agroforestry,quadrat,TJ,0.5,5,5,2019,Viola arvensis
+3,Agroforestry,quadrat,TJ,0.5,5,30,2019,Stellaria media
+3,Agroforestry,quadrat,TJ,0.5,5,5,2019,Galium aparine
+3,Agroforestry,quadrat,TJ,0.5,5,1,2019,Convolvulus arvensis
+3,Agroforestry,quadrat,TK,5,5,5,2019,Viola arvensis
+3,Agroforestry,quadrat,TK,5,5,70,2019,Stellaria media
+3,Agroforestry,quadrat,TK,5,5,1,2019,Atriplex/Chenopodium
+3,Agroforestry,quadrat,TK,5,5,1,2019,Persicaria lapathifolia
+3,Agroforestry,quadrat,TK,5,5,1,2019,Tripleurospermum inodorum
+3,Agroforestry,quadrat,TL,9.5,5,40,2019,Stellaria media
+3,Agroforestry,quadrat,TL,9.5,5,1,2019,Papaver rhoeas
+3,Agroforestry,quadrat,TM,9.5,5,40,2019,Stellaria media
+3,Agroforestry,quadrat,TM,9.5,5,1,2019,Lamium
+3,Agroforestry,quadrat,TN,5,5,30,2019,Stellaria media
+3,Agroforestry,quadrat,TN,5,5,1,2019,Convolvulus arvensis
+3,Agroforestry,quadrat,TN,5,5,5,2019,Cirsium arvense
+3,Agroforestry,quadrat,TN,5,5,5,2019,Atriplex/Chenopodium
+3,Agroforestry,quadrat,TN,5,5,5,2019,Persicaria lapathifolia
+3,Agroforestry,quadrat,TO,0.5,5,25,2019,Viola arvensis
+3,Agroforestry,quadrat,TO,0.5,5,20,2019,Stellaria media
+3,Agroforestry,quadrat,TO,0.5,5,10,2019,Galium aparine
+3,Agroforestry,quadrat,TO,0.5,5,5,2019,Convolvulus arvensis
+3,Agroforestry,quadrat,TO,0.5,5,5,2019,Bromus sterilis
+3,Agroforestry,quadrat,TO,0.5,5,1,2019,Lamium
+3,Agroforestry,quadrat,TO,0.5,5,1,2019,Cirsium arvense
+3,Arable,quadrat,CA,0,5,20,2019,Stellaria media
+3,Arable,quadrat,CB,0.5,5,40,2019,Stellaria media
+3,Arable,quadrat,CB,0.5,5,5,2019,Tripleurospermum inodorum
+3,Arable,quadrat,CC,5,5,30,2019,Stellaria media
+3,Arable,quadrat,CC,5,5,2,2019,Tripleurospermum inodorum
+3,Arable,quadrat,CC,5,5,2,2019,Veronica persica
+3,Arable,quadrat,CD,9.5,5,35,2019,Stellaria media
+3,Arable,quadrat,CE,9.5,5,30,2019,Stellaria media
+3,Arable,quadrat,CE,9.5,5,2,2019,Viola arvensis
+3,Arable,quadrat,CE,9.5,5,1,2019,Convolvulus arvensis
+3,Arable,quadrat,CF,5,5,40,2019,Stellaria media
+3,Arable,quadrat,CF,5,5,2,2019,Viola arvensis
+3,Arable,quadrat,CG,0.5,5,35,2019,Stellaria media
+3,Arable,quadrat,CG,0.5,5,2,2019,Viola arvensis
+3,Arable,quadrat,CG,0.5,5,1,2019,Lamium
+3,Arable,quadrat,CH,0,5,30,2019,Stellaria media
+3,Arable,quadrat,CH,0,5,2,2019,Viola arvensis
+3,Arable,quadrat,CI,0,5,25,2019,Stellaria media
+3,Arable,quadrat,CI,0,5,1,2019,Viola arvensis
+3,Arable,quadrat,CJ,0.5,5,30,2019,Stellaria media
+3,Arable,quadrat,CK,5,5,25,2019,Stellaria media
+3,Arable,quadrat,CL,9.5,5,15,2019,Stellaria media
+3,Arable,quadrat,CL,9.5,5,5,2019,Viola arvensis
+3,Arable,quadrat,CM,9.5,5,20,2019,Stellaria media
+3,Arable,quadrat,CM,9.5,5,1,2019,Veronica persica
+3,Arable,quadrat,CN,5,5,35,2019,Stellaria media
+3,Arable,quadrat,CN,5,5,1,2019,Viola arvensis
+3,Arable,quadrat,CN,5,5,1,2019,Convolvulus arvensis
+3,Arable,quadrat,CO,0.5,5,30,2019,Stellaria media
+3,Arable,quadrat,CO,0.5,5,1,2019,Viola arvensis
+3,Arable,quadrat,CP,0,5,25,2019,Stellaria media
+1,Agroforestry,quadrat,TB,0.5,5,1,2019,Galium aparine
+1,Agroforestry,quadrat,TB,0.5,5,1,2019,Convolvulus arvensis
+1,Agroforestry,quadrat,TC,5,5,0,2019,Galium aparine
+1,Agroforestry,quadrat,TD,9.5,5,0,2019,Galium aparine
+1,Agroforestry,quadrat,TE,9.5,5,0,2019,Galium aparine
+1,Agroforestry,quadrat,TF,5,5,0,2019,Galium aparine
+1,Agroforestry,quadrat,TG,0.5,5,0,2019,Galium aparine
+1,Agroforestry,quadrat,TJ,0.5,5,5,2019,Alopecurus myosuroides
+1,Agroforestry,quadrat,TK,5,5,0,2019,Alopecurus myosuroides
+1,Agroforestry,quadrat,TL,9.5,5,0,2019,Alopecurus myosuroides
+1,Agroforestry,quadrat,TM,9.5,5,0,2019,Alopecurus myosuroides
+1,Agroforestry,quadrat,TN,5,5,5,2019,Galium aparine
+1,Agroforestry,quadrat,TO,0.5,5,5,2019,Alopecurus myosuroides
+1,Arable,quadrat,CA,0,5,0,2019,Alopecurus myosuroides
+1,Arable,quadrat,CB,0.5,5,0,2019,Alopecurus myosuroides
+1,Arable,quadrat,CC,5,5,0,2019,Alopecurus myosuroides
+1,Arable,quadrat,CD,9.5,5,0,2019,Alopecurus myosuroides
+1,Arable,quadrat,CE,9.5,5,0,2019,Alopecurus myosuroides
+1,Arable,quadrat,CF,5,5,0,2019,Alopecurus myosuroides
+1,Arable,quadrat,CG,0.5,5,0,2019,Alopecurus myosuroides
+1,Arable,quadrat,CH,0,5,1,2019,Galium aparine
+1,Arable,quadrat,CI,0,5,0,2019,Galium aparine
+1,Arable,quadrat,CJ,0.5,5,0,2019,Galium aparine
+1,Arable,quadrat,CK,5,5,0,2019,Galium aparine
+1,Arable,quadrat,CL,9.5,5,0,2019,Galium aparine
+1,Arable,quadrat,CM,9.5,5,0,2019,Galium aparine
+1,Arable,quadrat,CN,5,5,0,2019,Galium aparine
+1,Arable,quadrat,CO,0.5,5,0,2019,Galium aparine
+1,Arable,quadrat,CP,0,5,0,2019,Galium aparine
+3,Agroforestry,us,TA,0,6,70,2018,Cirsium arvense
+3,Agroforestry,us,TA,0,6,6,2018,Silene latifolia
+3,Agroforestry,us,TA,0,6,70,2018,Galium aparine
+3,Agroforestry,us,TA,0,6,37.5,2018,Bromus sterilis
+3,Agroforestry,us,TA,0,6,6,2018,Leucanthemum vulgare
+3,Agroforestry,us,TA,0,6,17.5,2018,Avena
+3,Agroforestry,us,TA,0,6,17.5,2018,Bromus hordeaceus
+3,Agroforestry,us,TA,0,6,1,2018,Papaver rhoeas
+3,Agroforestry,us,TA,0,6,1,2018,Anthriscus sylvestris
+3,Agroforestry,us,TA,0,6,6,2018,Heracleum sphondylium
+3,Agroforestry,us,TA,0,6,1,2018,Festuca rubra
+3,Agroforestry,us,TA,0,6,6,2018,Poa trivialis
+3,Agroforestry,us,TA,0,6,1,2018,Lamium album
+3,Agroforestry,us,TA,0,6,1,2018,Trifolium repens
+3,Agroforestry,us,TH,0,6,37.5,2018,Cirsium arvense
+3,Agroforestry,us,TH,0,6,37.5,2018,Galium aparine
+3,Agroforestry,us,TH,0,6,70,2018,Bromus sterilis
+3,Agroforestry,us,TH,0,6,1,2018,Leucanthemum vulgare
+3,Agroforestry,us,TH,0,6,17.5,2018,Avena
+3,Agroforestry,us,TH,0,6,6,2018,Heracleum sphondylium
+3,Agroforestry,us,TH,0,6,1,2018,Trifolium repens
+3,Agroforestry,us,TH,0,6,6,2018,Rumex obtusifolius
+3,Agroforestry,us,TH,0,6,1,2018,Sonchus asper
+3,Agroforestry,us,TH,0,6,1,2018,Stachys officinalis
+3,Agroforestry,us,TI,0,6,37.5,2018,Cirsium arvense
+3,Agroforestry,us,TI,0,6,37.5,2018,Urtica dioica
+3,Agroforestry,us,TI,0,6,37.5,2018,Galium aparine
+3,Agroforestry,us,TI,0,6,17.5,2018,Avena
+3,Agroforestry,us,TI,0,6,6,2018,Rumex obtusifolius
+3,Agroforestry,us,TI,0,6,37.5,2018,Bromus sterilis
+3,Agroforestry,us,TI,0,6,1,2018,Hordeum murinum
+3,Agroforestry,us,TI,0,6,1,2018,Poa trivialis
+3,Agroforestry,us,TI,0,6,1,2018,Silene latifolia
+3,Agroforestry,us,TI,0,6,1,2018,Heracleum sphondylium
+3,Agroforestry,us,TI,0,6,6,2018,Leucanthemum vulgare
+3,Agroforestry,us,TI,0,6,1,2018,Papaver rhoeas
+3,Agroforestry,us,TI,0,6,1,2018,Lactuca serriola
+3,Agroforestry,us,TP,0,6,37.5,2018,Cirsium arvense
+3,Agroforestry,us,TP,0,6,17.5,2018,Galium aparine
+3,Agroforestry,us,TP,0,6,17.5,2018,Avena
+3,Agroforestry,us,TP,0,6,1,2018,Rumex obtusifolius
+3,Agroforestry,us,TP,0,6,70,2018,Bromus sterilis
+3,Agroforestry,us,TP,0,6,1,2018,Hordeum murinum
+3,Agroforestry,us,TP,0,6,6,2018,Poa trivialis
+3,Agroforestry,us,TP,0,6,1,2018,Silene latifolia
+3,Agroforestry,us,TP,0,6,1,2018,Leucanthemum vulgare
+3,Agroforestry,us,TP,0,6,1,2018,Stachys sylvatica
+3,Agroforestry,us,TP,0,6,1,2018,Geranium molle
+3,Agroforestry,us,TP,0,6,6,2018,Trifolium repens
+3,Agroforestry,us,TP,0,6,6,2018,Arrhenatherum elatius
+3,Agroforestry,us,TP,0,6,6,2018,Lamium album
+3,Agroforestry,us,TP,0,6,1,2018,Arctium lappa
+3,Agroforestry,us,TP,0,6,1,2018,Festuca rubra
+2,Agroforestry,us,TA,0,6,37.5,2018,Phleum pratense
+2,Agroforestry,us,TA,0,6,37.5,2018,Trifolium pratense
+2,Agroforestry,us,TA,0,6,37.5,2018,Trifolium repens
+2,Agroforestry,us,TA,0,6,17.5,2018,Taraxacum agg.
+2,Agroforestry,us,TA,0,6,6,2018,Picris echioides
+2,Agroforestry,us,TA,0,6,6,2018,Sonchus oleraceus
+2,Agroforestry,us,TA,0,6,6,2018,Hordeum brachyantherum
+2,Agroforestry,us,TA,0,6,70,2018,Poa trivialis
+2,Agroforestry,us,TA,0,6,1,2018,Bromus hordeaceus
+2,Agroforestry,us,TA,0,6,6,2018,Alopecurus myosuroides
+2,Agroforestry,us,TA,0,6,1,2018,Avena
+2,Agroforestry,us,TA,0,6,1,2018,Alopecurus pratensis
+2,Agroforestry,us,TA,0,6,1,2018,Dactylis glomerata
+2,Agroforestry,us,TA,0,6,6,2018,Ranunculus acris
+2,Agroforestry,us,TA,0,6,6,2018,Rumex crispus
+2,Agroforestry,us,TA,0,6,1,2018,Epilobium tetragonum
+2,Agroforestry,us,TA,0,6,1,2018,Plantago lanceolata
+2,Agroforestry,us,TA,0,6,1,2018,Epilobium hirsutum
+2,Agroforestry,us,TH,0,6,37.5,2018,Phleum pratense
+2,Agroforestry,us,TH,0,6,37.5,2018,Trifolium pratense
+2,Agroforestry,us,TH,0,6,37.5,2018,Trifolium repens
+2,Agroforestry,us,TH,0,6,17.5,2018,Taraxacum agg.
+2,Agroforestry,us,TH,0,6,17.5,2018,Picris echioides
+2,Agroforestry,us,TH,0,6,6,2018,Sonchus oleraceus
+2,Agroforestry,us,TH,0,6,70,2018,Poa trivialis
+2,Agroforestry,us,TH,0,6,37.5,2018,Alopecurus myosuroides
+2,Agroforestry,us,TH,0,6,6,2018,Ranunculus acris
+2,Agroforestry,us,TH,0,6,6,2018,Rumex crispus
+2,Agroforestry,us,TH,0,6,1,2018,Epilobium hirsutum
+2,Agroforestry,us,TH,0,6,6,2018,Cirsium arvense
+2,Agroforestry,us,TH,0,6,6,2018,Myosotis arvensis
+2,Agroforestry,us,TH,0,6,6,2018,Arrhenatherum elatius
+2,Agroforestry,us,TH,0,6,1,2018,Jacobaea vulgaris
+2,Agroforestry,us,TH,0,6,6,2018,Epilobium parviflorum
+2,Agroforestry,us,TH,0,6,1,2018,Rumex conglomeratus
+2,Agroforestry,us,TI,0,6,17.5,2018,Phleum pratense
+2,Agroforestry,us,TI,0,6,37.5,2018,Poa trivialis
+2,Agroforestry,us,TI,0,6,37.5,2018,Trifolium repens
+2,Agroforestry,us,TI,0,6,70,2018,Trifolium pratense
+2,Agroforestry,us,TI,0,6,6,2018,Sonchus oleraceus
+2,Agroforestry,us,TI,0,6,17.5,2018,Alopecurus myosuroides
+2,Agroforestry,us,TI,0,6,1,2018,Avena
+2,Agroforestry,us,TI,0,6,6,2018,Holcus lanatus
+2,Agroforestry,us,TI,0,6,6,2018,Picris echioides
+2,Agroforestry,us,TI,0,6,1,2018,Artemisia vulgaris
+2,Agroforestry,us,TI,0,6,1,2018,Geranium dissectum
+2,Agroforestry,us,TI,0,6,6,2018,Myosotis arvensis
+2,Agroforestry,us,TI,0,6,1,2018,Medicago lupulina
+2,Agroforestry,us,TI,0,6,6,2018,Bromus hordeaceus
+2,Agroforestry,us,TI,0,6,1,2018,Ranunculus acris
+2,Agroforestry,us,TI,0,6,1,2018,Cirsium vulgare
+2,Agroforestry,us,TI,0,6,1,2018,Lolium perenne
+2,Agroforestry,us,TP,0,6,17.5,2018,Phleum pratense
+2,Agroforestry,us,TP,0,6,37.5,2018,Poa trivialis
+2,Agroforestry,us,TP,0,6,37.5,2018,Trifolium repens
+2,Agroforestry,us,TP,0,6,6,2018,Trifolium pratense
+2,Agroforestry,us,TP,0,6,6,2018,Sonchus oleraceus
+2,Agroforestry,us,TP,0,6,70,2018,Alopecurus myosuroides
+2,Agroforestry,us,TP,0,6,6,2018,Picris echioides
+2,Agroforestry,us,TP,0,6,6,2018,Myosotis arvensis
+2,Agroforestry,us,TP,0,6,17.5,2018,Ranunculus acris
+2,Agroforestry,us,TP,0,6,1,2018,Epilobium tetragonum
+2,Agroforestry,us,TP,0,6,1,2018,Epilobium parviflorum
+1,Agroforestry,us,TI,0,6,70,2018,Festuca rubra
+1,Agroforestry,us,TI,0,6,17.5,2018,Leucanthemum vulgare
+1,Agroforestry,us,TI,0,6,6,2018,Lotus corniculatus
+1,Agroforestry,us,TI,0,6,6,2018,Taraxacum agg.
+1,Agroforestry,us,TI,0,6,6,2018,Bromus hordeaceus
+1,Agroforestry,us,TI,0,6,6,2018,Achillea millefolium
+1,Agroforestry,us,TI,0,6,6,2018,Trifolium dubium
+1,Agroforestry,us,TI,0,6,17.5,2018,Holcus lanatus
+1,Agroforestry,us,TI,0,6,6,2018,Vicia tetrasperma
+1,Agroforestry,us,TI,0,6,1,2018,Centaurea nigra
+1,Agroforestry,us,TI,0,6,6,2018,Malva moschata
+1,Agroforestry,us,TI,0,6,6,2018,Epilobium parviflorum
+1,Agroforestry,us,TI,0,6,6,2018,Cynosurus cristatus
+1,Agroforestry,us,TI,0,6,1,2018,Picris echioides
+1,Agroforestry,us,TI,0,6,6,2018,Dactylis glomerata
+1,Agroforestry,us,TI,0,6,1,2018,Trifolium pratense
+1,Agroforestry,us,TI,0,6,1,2018,Geranium dissectum
+1,Agroforestry,us,TI,0,6,1,2018,Epilobium tetragonum
+1,Agroforestry,us,TI,0,6,1,2018,Myosotis arvensis
+1,Agroforestry,us,TI,0,6,6,2018,Prunella vulgaris
+1,Agroforestry,us,TI,0,6,6,2018,Alopecurus myosuroides
+1,Agroforestry,us,TI,0,6,1,2018,Galium verum
+1,Agroforestry,us,TP,0,6,70,2018,Festuca rubra
+1,Agroforestry,us,TP,0,6,17.5,2018,Leucanthemum vulgare
+1,Agroforestry,us,TP,0,6,6,2018,Lotus corniculatus
+1,Agroforestry,us,TP,0,6,6,2018,Taraxacum agg.
+1,Agroforestry,us,TP,0,6,1,2018,Bromus hordeaceus
+1,Agroforestry,us,TP,0,6,6,2018,Achillea millefolium
+1,Agroforestry,us,TP,0,6,6,2018,Trifolium dubium
+1,Agroforestry,us,TP,0,6,1,2018,Centaurea nigra
+1,Agroforestry,us,TP,0,6,6,2018,Malva moschata
+1,Agroforestry,us,TP,0,6,6,2018,Epilobium parviflorum
+1,Agroforestry,us,TP,0,6,6,2018,Cynosurus cristatus
+1,Agroforestry,us,TP,0,6,6,2018,Picris echioides
